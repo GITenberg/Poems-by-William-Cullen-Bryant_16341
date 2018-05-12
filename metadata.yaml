@@ -1,0 +1,28 @@
+_repo: Poems-by-William-Cullen-Bryant_16341
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bryant, William Cullen
+    alias: Bryant, W. C. (William Cullen)
+    birthdate: 1794
+    deathdate: 1878
+    gutenberg_agent_id: '3328'
+    url: http://www.gutenberg.org/2009/agents/3328
+    wikipedia: http://en.wikipedia.org/wiki/William_Cullen_Bryant
+description: ''
+gutenberg_issued: '2005-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16341'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 19th century'
+- !lcc 'PS'
+title: Poems by William Cullen Bryant
+url: http://www.gutenberg.org/ebooks/16341
